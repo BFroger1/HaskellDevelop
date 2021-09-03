@@ -1,0 +1,1 @@
+chat name message = name  ++ "::" ++ message
